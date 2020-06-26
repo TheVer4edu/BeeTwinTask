@@ -136,7 +136,16 @@ namespace BeeTwinTask
                     case "-show":
                         new ShowMatrixCommand().Execute(int.Parse(command[1]));
                         break;
+                    case "-exit":
+                    case "-quit":
+                    case "-q":
+                        Console.WriteLine("Bye!");
+                        return;
+                    default:
+                        Console.WriteLine("Unknown command!");
+                        continue;
                 }
+                Console.WriteLine("Well done!");
             }
         }
     }
