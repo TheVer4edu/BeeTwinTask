@@ -1,0 +1,13 @@
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\obj\Debug\netcoreapp3.1\BeeTwinTask.csprojAssemblyReference.cache
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\obj\Debug\netcoreapp3.1\BeeTwinTask.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\obj\Debug\netcoreapp3.1\BeeTwinTask.AssemblyInfoInputs.cache
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\obj\Debug\netcoreapp3.1\BeeTwinTask.AssemblyInfo.cs
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\bin\Debug\netcoreapp3.1\BeeTwinTask.exe
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\bin\Debug\netcoreapp3.1\BeeTwinTask.deps.json
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\bin\Debug\netcoreapp3.1\BeeTwinTask.runtimeconfig.json
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\bin\Debug\netcoreapp3.1\BeeTwinTask.runtimeconfig.dev.json
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\bin\Debug\netcoreapp3.1\BeeTwinTask.dll
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\bin\Debug\netcoreapp3.1\BeeTwinTask.pdb
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\obj\Debug\netcoreapp3.1\BeeTwinTask.dll
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\obj\Debug\netcoreapp3.1\BeeTwinTask.pdb
+D:\Projects\csharp\BeeTwinTask\BeeTwinTask\obj\Debug\netcoreapp3.1\BeeTwinTask.genruntimeconfig.cache
